@@ -1,0 +1,10 @@
+Package: data.table
+Version: 1.12.7
+Depends: R (>= 3.1.0)
+Imports: methods
+Suggests: bit64, curl, R.utils, knitr, xts, nanotime, zoo, yaml
+License: MPL-2.0 | file LICENSE
+MD5sum: 2acdff2aa4ee697c8901e6e545b7b333
+NeedsCompilation: yes
+Revision: cbe77a1224268c14b78cea0e293e8acdcb6d6751
+File: data.table_1.12.7.tar.gz
